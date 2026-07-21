@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arianalamshahi.github.io/arian-alam/sitemap.xml
