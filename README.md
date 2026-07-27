@@ -1,21 +1,31 @@
-# Arian Alamshahi, personlig CV-webbplats
+# Arian Alamshahi, personlig CV webbplats
 
-Den här versionen är uppdaterad utifrån feedback om att sidan ska kännas mer personlig, mer i jag form och mindre som en traditionell B2B-portfolio.
+Detta paket är färdigt att publiceras på GitHub Pages på adressen:
 
-## Sidor
-- `index.html`, personlig startsida
-- `styrelsearbetet.html`, ordföranderollen och konkreta erfarenheter
-- `examensarbetet.html`, processen bakom uppsatsen
-- `digitalt-initiativ.html`, jobb och processportalen
-- `Arian_Alamshahi_CV.pdf`, CV-filen
+https://arianalamshahi.github.io/arianacv/
 
-## Bilder som nu ingår
-- `assets/arian-portrait.jpg`, porträttbild
-- `assets/brf-stugan.jpg`, bild till erfarenheten om styrelsearbetet
-- `assets/sodertorn-logo.png`, Södertörns logotyp till examensarbetsdelen
+## Filer som ska ligga i roten av repot
 
-## Publicera på GitHub Pages
-Ladda upp samtliga filer och hela mappen `assets` direkt i repositoryts rot. Behåll filnamnen exakt.
+- index.html
+- styrelsearbetet.html
+- examensarbetet.html
+- digitalt-initiativ.html
+- styles.css
+- script.js
+- 404.html
+- robots.txt
+- sitemap.xml
+- Arian_Alamshahi_CV.pdf
+- assets mappen
 
-## Uppdatera CV
-Ersätt `Arian_Alamshahi_CV.pdf` med den nya PDF-filen och behåll samma filnamn.
+## Enklaste sättet att uppdatera GitHub
+
+1. Öppna repot `arianacv`.
+2. Ladda upp samtliga filer och mappen `assets` till repots rot.
+3. När GitHub frågar om filer med samma namn ska de ersättas.
+4. Behåll exakt samma filnamn och mappstruktur.
+5. Vänta någon minut och ladda sedan om sidan med Ctrl + F5.
+
+## LinkedIn förhandsvisning
+
+Varje sida har en egen bild och korrekt metadata för delning. När allt är publicerat kan adresserna kontrolleras i LinkedIn Post Inspector för att uppdatera eventuell gammal cache.
